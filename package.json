@@ -8,11 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "speculr.github.io/cv"
+    "url": "https://github.com/speculr/resume.git"
   },
   "keywords": [
     "resume"
   ],
   "author": "maxwell",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-coffee": "^2.1.1",
+    "gulp-util": "^2.2.20"
+  }
 }
