@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "description": "history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "speculr.github.io/cv"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "maxwell",
+  "license": "ISC"
+}
